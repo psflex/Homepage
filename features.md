@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /features
 title: "Research Highlights"
 excerpt: "Research Highlights"
 author_profile: true
