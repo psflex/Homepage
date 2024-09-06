@@ -1,4 +1,11 @@
-# **Features**
+---
+permalink: /
+title: "Research Highlights"
+excerpt: "Research Highlights"
+author_profile: true
+---
+
+# **Research Highlights**
 
 - Suitable for light docs site of a few pages.
 - No HTML or Liquid coding needed. Just write content in markdown.
