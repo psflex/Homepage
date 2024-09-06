@@ -1,2 +1,18 @@
+---
+permalink: /
+---
+
 ## Chao LEI
-Hi There, Welcome! I am currently a postdoctoral fellow at The University of British Columbia (UBC). Previously, I received the PhD degree at the Department of Electronic and Electrical Engineering (EEE) in The Hong Kong Polytechnic University (PolyU). Before that, I was an experienced transmission/distribution system operator at State Grid of China. My research motivation twoards on affordable, reliable and sustainable goals for the clean energy future.
+<img src="https://raw.githubusercontent.com/honolulufishing/honolulufishing.github.io/master/docs/2.png" align="left" width="150">  
+Postdoctoral Fellow
+<br>Dept. of Electrical and Computer Engineering 
+<br>The University of British Columbia, Canada
+<br>Address: Macleod Building 2356 Main Mall V6T 1Z4, UBC Department of Electrical and Computer Engineering, Vancouver Campus
+<br>Email: 21118924r@connect.polyu.hk<br/>
+
+
+<br><br/>
+
+
+
+
