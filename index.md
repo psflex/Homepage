@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p>
-<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/2.png" align="left" width="140">  
+<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/2.png" align="left" width="130">  
 <font size=5 ><em>Chao LEI</em></font>  
   <br>  
 <br><font size=4 >Postdoctoral Fellow</font>
