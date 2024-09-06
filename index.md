@@ -25,8 +25,8 @@ I am currently a postdoctoral fellow supervised by Prof. <a href='https://ece.ub
 
 ## Interested Research
 Research highlights and Publications
-- [Research Highlights](features.md)
-- [Publications](limitations.md)
+- [Research Highlights](features.md){:target="_blank"}
+- [Publications](limitations.md){:target="_blank"}
 
 ## Links
 useful links for reference.
