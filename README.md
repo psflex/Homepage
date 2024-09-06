@@ -3,7 +3,7 @@ permalink: /
 ---
 
 ## Chao LEI
-<img src="https://raw.githubusercontent.com/honolulufishing/honolulufishing.github.io/master/docs/2.png" align="left" width="150">  
+<img src="https://github.com/honolulufishing/Homepage/blob/main/2.png" align="left" width="150">  
 Postdoctoral Fellow
 <br>Dept. of Electrical and Computer Engineering 
 <br>The University of British Columbia, Canada
