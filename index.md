@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 <p>
-<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/2.png" align="left" width="150">  
+<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/2.png" align="left" width="140">  
 <font size=5 ><em>Chao LEI</em></font>  
-  <br>
+  <br>  
 <br><font size=4 >Postdoctoral Fellow</font>
 <br>Dept. of Electrical and Computer Engineering 
 <br>The University of British Columbia, Canada
 <br><a href="mailto:21118924r@connect.polyu.hk">21118924r@connect.polyu.hk</a>
-<br><br/>
+<br><br><br/>
 </p>
 
 
