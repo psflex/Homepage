@@ -12,7 +12,7 @@ author_profile: true
 <br><font size=4 >Postdoctoral Fellow</font>
 <br>Dept. of Electrical and Computer Engineering 
 <br>The University of British Columbia, Canada
-<br><a href="mailto:21118924r@connect.polyu.hk">21118924r@connect.polyu.hk</a>
+<br>Email<a href="mailto:21118924r@connect.polyu.hk">21118924r@connect.polyu.hk</a>
 <br><br><br/>
 </p>
 
