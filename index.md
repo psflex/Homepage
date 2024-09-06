@@ -1,5 +1,5 @@
 ---
-permalink: /index
+permalink: /
 title: "Homepage"
 excerpt: "Homepage"
 author_profile: true
