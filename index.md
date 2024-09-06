@@ -13,7 +13,7 @@ author_profile: true
 <br>Dept. of Electrical and Computer Engineering 
 <br>The University of British Columbia, Canada
 <br>Email: <a href="mailto:21118924r@connect.polyu.hk">21118924r@connect.polyu.hk</a>
-<br><br><br/>
+<br><br/>
 </p>
 
 ##  Hi There, Welcome!
