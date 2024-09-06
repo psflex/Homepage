@@ -1,6 +1,3 @@
----
-permalink: /
----
 
 ## Chao LEI
 <img src="https://github.com/honolulufishing/Homepage/blob/main/2.png" align="left" width="150">  
