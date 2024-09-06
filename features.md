@@ -5,7 +5,7 @@ excerpt: "Research Highlights"
 author_profile: true
 ---
 
-# **Research Highlights**
+## Research Highlights
 
 - Suitable for light docs site of a few pages.
 - No HTML or Liquid coding needed. Just write content in markdown.
