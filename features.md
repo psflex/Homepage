@@ -6,14 +6,19 @@
 - cyber-physical security and privacy protection
 
 ## Power System Optimization
-Decentrailized Optimization Approaches, i.e., `ADMM`, `Benders Decomposition`, `Lagrangian Relaxation`, etc. 
+-Convex optimization: `convex hull relaxation`, `disjunctive programming`, `mixed-integer programming`
+-Decentralized computation: `Benders decomposition`, `ADMM`, `Lagrangian relaxation`
+-Differentially private optimization: `Gaussian mechanism`, `Laplace mechanism`
+-Data-driven optimization: `DBSCAN`, `SVM`, `k-means`
 ```sh
 echo 'Hello, world!'
 ```
 
+
 ## High-fidelity COMSOL Simulation
+I have partipated in many COMSOL simulation applications, e.g., Degraded Underground XLPE Cable, Electrochemical-Thermal Coupled Modeling, Arc Simulation of Electric Circuit Breaker, and Life Cycle Prediction for Underground Cables.
 ### Degraded Underground Cable
-Adaptive diagnostics of Water Tree in Medium Voltage Underground Cable using Transfer Learning and Simulation-based Analysis to Assess Cable Condition and Predict Remaining Useful Life (CAIRS in Hong Kong)
+Mimic the Water Tree Growth in Medium Voltage Underground Cable to Assess Cable Condition and Predict Remaining Useful Life (CAIRS in Hong Kong)
 
 
 
@@ -24,3 +29,6 @@ App.1 – Electrochemical-Thermal Coupled Modeling
 
 App.2 – Blade Lithium-Ion Battery for BYD Company 
 
+
+## Cyber-Physical Security and Privacy Protection
+My research focuses on observability defense for active distribution systems and differential privacy protection.
