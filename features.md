@@ -29,16 +29,19 @@ Representative References
 - Underground Cable: `Degraded Underground XLPE Cable`, `Life Cycle Prediction for Underground Cables`
 - Battery Pack: `Electrochemical-Thermal Coupled Modeling`
 - Electric Circuit Breaker: `Arc Simulation`
-<br><br/>
-**Project 1. Mimic the Water Tree Growth in Medium Voltage Underground Cable to Assess Cable Condition and Predict Remaining Useful Life (CAIRS in Hong Kong)**
+
+**Project 1. Mimic the Water Tree Growth in Medium Voltage Underground Cable to Assess Cable Condition and Predict Remaining Useful Life (Hong Kong)**
 <p>
-<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="left" width="130">  
+<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="left" width="500">  
 </p>
 
 ```
 Representative Patents
 ```
 - S. Bu, G. Lu, E. Yim and **C. Lei**, “A Health Index System and Method of Predicting Health Condition in Underground Cables,” HK30064886, 08/07/2023, Hong Kong. (**Winning the Golden Prize at  49th The International Exhibition of Inventions Geneva, Switzerland, 2024**)
+<br><br/>
+<br>
+<br/>
 
 **Project 2. Electrochemical-thermal coupled Battery**
 <p>App.1 – Electrochemical-Thermal Coupled Modeling</p>
