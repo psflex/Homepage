@@ -41,7 +41,7 @@ Representative Patents
 - S. Bu, G. Lu, E. Yim and **C. Lei**, “A Health Index System and Method of Predicting Health Condition in Underground Cables,” HK30064886, 08/07/2023, Hong Kong. (**Winning the Golden Prize at  49th The International Exhibition of Inventions Geneva, Switzerland, 2024**)
 <br><br/>
 <br><br/>
-<br><br/>
+
 
 **Project 2. Electrochemical-thermal coupled Blade Lithium-Ion Battery for BYD Company**
 <p>
