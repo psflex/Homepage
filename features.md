@@ -40,25 +40,25 @@ Representative Patents
 ```
 - S. Bu, G. Lu, E. Yim and **C. Lei**, “A Health Index System and Method of Predicting Health Condition in Underground Cables,” HK30064886, 08/07/2023, Hong Kong. (**Winning the Golden Prize at  49th The International Exhibition of Inventions Geneva, Switzerland, 2024**)
 <br><br/>
-<br>
-<br/>
+<br><br/>
+<br><br/>
 
-**Project 2. Electrochemical-thermal coupled Battery**
-<p>App.1 – Electrochemical-Thermal Coupled Modeling</p>
-
-
-
-<p> App.2 – Blade Lithium-Ion Battery for BYD Company </p>
+**Project 2. Electrochemical-thermal coupled Blade Lithium-Ion Battery for BYD Company**
+<p>
+<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/battery.gif" align="left" width="500">  
+</p>
 
 ```
 Representative References
 ```
-- **C. Lei**, S. Bu, Q. Wang, Z. Ren and D. Srinivasan, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decomposition-Coordination-based Least Squares Approach with Disjunctive Cuts ," **IEEE Transactions  on Power Systems**, 2024 (Under Review)
-
+- **C. Lei**, S. Bu, Q. Wang, Z. Ren and D. Srinivasan, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decomposition-Coordination-based Least Squares Approach with Disjunctive Cuts," **IEEE Transactions  on Power Systems**, 2024 (Under Review)
+<br><br/>
+<br><br/>
+<br><br/>
 
 ### Cyber-Physical Security and Privacy Protection
 - Cyber-Physical Security: `observability defense`, `false data injection`
-- Privacy Protection: `differential privacy', `Homomorphic encryption'
+- Privacy Protection: `differential privacy`, `Homomorphic encryption`
 ```
 Representative References
 ```
