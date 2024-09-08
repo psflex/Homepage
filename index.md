@@ -25,7 +25,7 @@ I am currently a postdoctoral fellow supervised by Prof. <a href='https://ece.ub
 
 ## Research and Services
 Research Highlights with Representative Publications and Patents
-- [Research Highlights](features.md){:target="_blank"}
+- [Research Highlights](research.md){:target="_blank"}
 
 Teaching and Services
 - [Teaching and Services](limitations.md){:target="_blank"}
