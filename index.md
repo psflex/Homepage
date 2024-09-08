@@ -23,15 +23,27 @@ I am currently a postdoctoral fellow supervised by Prof. <a href='https://ece.ub
 - *2024.09*: &nbsp;🎉🎉 Our paper 'Decentralized Optimal Power Flow for Multi-Agent Active Distribution Networks: A Differentially Private Consensus ADMM Algorithm' has been accepted by IEEE Transactions on Smart Grid. (<a href='https://ieeexplore.ieee.org/document/10659236' target="_blank"> DOI: 10.1109/TSG.2024.3451793</a>)
 - *2023.11*: &nbsp;🎉🎉 Our paper 'Observability Defense-Constrained Distribution Network Reconfiguration for Cyber-Physical Security Enhancement' has been accepted by IEEE Transactions on Smart Grid. (DOI: <a href='https://ieeexplore.ieee.org/document/10320370' target="_blank">10.1109/TSG.2023.3334078</a>)
 
-## Interested Research
-Research highlights and Publications
+## Research and Services
+Research Highlights with Representative Publications and Patents
 - [Research Highlights](features.md){:target="_blank"}
-- [Publications](limitations.md){:target="_blank"}
 
+Teaching and Services
+- [Teaching and Services](limitations.md){:target="_blank"}
+
+Journal Reviewer (Selected)
+- IEEE Trans. on Power Systems
+- IEEE Trans. on Smart Grid
+- IEEE Trans. on Sustainable Energy
+- IEEE Trans. on Power Delivery
+- Power Engineering Letter
+- IEEE Trans. on Energy Markets, Policy and Regulation
+- CSEE Journal of Power and Energy Systems
+- International Journal of Electrical Power & Energy Systems
+ 
 ## Links
-useful links for reference.
-- <a href='https://www.polyu.edu.hk/' target="_blank">[PolyU]</a>
-- <a href='https://ubc.ca/' target="_blank">[UBC]</a>
-
-
+useful links for optimization toolbox and references
+- <a href='https://www.mosek.com/' target="_blank">[MOSEK]</a>
+- <a href='https://www.ibm.com/products/ilog-cplex-optimization-studio' target="_blank">[CPLEX]</a>
+- <a href='https://minlp.com/baron-solver' target="_blank">[BARON]</a>
+- <a href='https://www.ubc.ca/' target="_blank">[UBC]</a>
 
