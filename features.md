@@ -59,6 +59,7 @@ Representative References
 ### Cyber-Physical Security and Privacy Protection
 - Cyber-Physical Security: `observability defense`, `false data injection`
 - Privacy Protection: `differential privacy`, `Homomorphic encryption`
+
 ```
 Representative References
 ```
