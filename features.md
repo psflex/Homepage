@@ -35,14 +35,22 @@ Representative References
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="left" width="130">  
 </p>
 
-
+```
+Representative Patents
+```
+- S. Bu, G. Lu, E. Yim and **C. Lei**, “A Health Index System and Method of Predicting Health Condition in Underground Cables,” HK30064886, 08/07/2023, Hong Kong. (**Winning the Golden Prize at  49th The International Exhibition of Inventions Geneva, Switzerland, 2024**)
 
 **Project 2. Electrochemical-thermal coupled Battery**
 <p>App.1 – Electrochemical-Thermal Coupled Modeling</p>
 
 
 
-App.2 – Blade Lithium-Ion Battery for BYD Company 
+<p> App.2 – Blade Lithium-Ion Battery for BYD Company </p>
+
+```
+Representative References
+```
+- **C. Lei**, S. Bu, Q. Wang, Z. Ren and D. Srinivasan, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decomposition-Coordination-based Least Squares Approach with Disjunctive Cuts ," **IEEE Transactions  on Power Systems**, 2024 (Under Review)
 
 
 ### Cyber-Physical Security and Privacy Protection
