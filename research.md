@@ -5,7 +5,7 @@
 - High-Fidelity Battery Simulation
 - Cyber-Physical Security and Privacy Protection
 
-### Power System Optimization
+### 1. Power System Optimization
 - Convex optimization: `convex hull relaxation`, `disjunctive programming`, `mixed-integer programming`
 - Decentralized computation: `Benders decomposition`, `ADMM`, `Lagrangian relaxation`
 - Differentially private optimization: `Gaussian mechanism`, `Laplace mechanism`
@@ -25,7 +25,7 @@ Representative References
 - Y. Zou, Q. Wang, Q. Xia, Y. Chi, **C. Lei**, N. Zhou, “ Federated reinforcement learning for Short-Time scale operation of Wind-Solar-Thermal power network with nonconvex models,” **International Journal of Electrical Power & Energy Systems**, vol. 158, 2024.
 - S. Yu, N. Zhou, Q. Wang, **C. Lei** and J. Fang, “Optimal Planning Method of On-load Capacity Regulating Distribution Transformers in Urban Distribution Networks after Electric Energy Replacement Considering Uncertainties,” **Energies**, vol. 11, no. 6, pp.1457, 2018.
 
-### High-Fidelity COMSOL Simulation
+### 2. High-Fidelity COMSOL Simulation
 - Underground Cable: `Degraded Underground XLPE Cable`, `Life Cycle Prediction for Underground Cables`
 - Battery Pack: `Electrochemical-Thermal Coupled Modeling`
 - Electric Circuit Breaker: `Arc Simulation`
@@ -56,7 +56,7 @@ Representative References
 <br><br/>
 <br><br/>
 
-### Cyber-Physical Security and Privacy Protection
+### 3. Cyber-Physical Security and Privacy Protection
 - Cyber-Physical Security: `observability defense`, `false data injection`
 - Privacy Protection: `differential privacy`, `Homomorphic encryption`
 
