@@ -39,7 +39,12 @@ Journal Reviewer (Selected)
 - IEEE Trans. on Energy Markets, Policy and Regulation
 - CSEE Journal of Power and Energy Systems
 - International Journal of Electrical Power & Energy Systems
- 
+
+## Download 
+useful slides for talks/workshops
+- <a href='https://github.com/honolulufishing/honolulufishing/blob/main/Report_Chao_cqu.pptx' target="_blank">[Report]</a>
+
+
 ## Links
 useful links for optimization toolbox and references
 - <a href='https://www.mosek.com/' target="_blank">[MOSEK]</a>
