@@ -28,7 +28,7 @@ Research Highlights with Representative Publications and Patents
 - [Research Highlights](research.md){:target="_blank"}
 
 Teaching and Services
-- [Teaching and Services](limitations.md){:target="_blank"}
+- [Publications](limitations.md){:target="_blank"}
 
 Journal Reviewer (Selected)
 - IEEE Trans. on Power Systems
