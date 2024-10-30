@@ -26,6 +26,7 @@
 - Electric Circuit Breaker: `Arc Simulation`
 
 **Project 2. Mimic the Water Tree Growth in Medium Voltage Underground Cable to Assess Cable Condition and Predict Remaining Useful Life**
+
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="center" width="800"> 
 
 > ***Representative References***
