@@ -11,7 +11,7 @@
 - Data-driven optimization: `DBSCAN`, `SVM`, `k-means`
 
 
-**Project 1. Economic Dispatch for Renewable Power Systems with Flexible Load Transfer**
+**Project 1.1. Economic Dispatch for Renewable Power Systems with Flexible Load Transfer**
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="center" width="700"> 
 
 > ***Representative References***
@@ -25,7 +25,7 @@
 - Battery Pack: `Electrochemical-Thermal Coupled Modeling`
 - Electric Circuit Breaker: `Arc Simulation`
 
-**Project 2. Mimic the Water Tree Growth in Medium Voltage Underground Cable to Assess Cable Condition and Predict Remaining Useful Life**
+**Project 2.1. Mimic the Water Tree Growth in Medium Voltage Underground Cable to Assess Cable Condition and Predict Remaining Useful Life**
 
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="center" width="700"> 
 
@@ -33,14 +33,14 @@
 - S. Bu, G. Lu, E. Yim and **C. Lei**, “A Health Index System and Method of Predicting Health Condition in Underground Cables,” HK30064886, 08/07/2023, Hong Kong. (**Winning the Golden Prize at  49th The International Exhibition of Inventions Geneva, Switzerland, 2024**)
 
 
-**Project 3. Electrochemical-thermal coupled Blade Lithium-Ion Battery for BYD Company**
+**Project 2.2. Electrochemical-thermal coupled Blade Lithium-Ion Battery for BYD Company**
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/battery.gif" align="center" width="700"> 
 
 > ***Representative References***
 - **C. Lei**, Y. Christine Chen and S. Bu, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts,” **IEEE PES General Meeting 2025**, 2024.
 - **C. Lei**, Y. Christine Chen and S. Bu, “Aging-Aware Vehicle Battery Dispatch for Aggregators: A Digital-Twin-enabled Rolling Optimization Framework,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
 
-**Project 4. Decentralized Battery Dispatch Optimization for EV Aggregator**
+**Project 2.3. Decentralized Battery Dispatch Optimization for EV Aggregator**
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/battery.gif" align="center" width="700">  
 
 > ***Representative References***
