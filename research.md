@@ -58,7 +58,7 @@ Representative References
 
 
 
-**Project 3. Decentralized Battery Dispatch Optimization**
+**Project 3. Decentralized Battery Dispatch Optimization for EV Aggregator**
 <p>
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/battery.gif" align="left" width="500">  
 </p>
