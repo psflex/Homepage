@@ -5,7 +5,9 @@
 - High-Fidelity COMSOL Simulation for battery and underground cables
 - Cyber-Physical Security and Privacy Protection
 
-## 1. Power System Optimization
+
+
+## <code style="color : #FFD700">1. Power System Optimization</code>
 - Convex optimization: `convex hull relaxation`, `disjunctive programming`, `mixed-integer programming`
 - Decentralized computation: `Benders decomposition`, `ADMM`, `Lagrangian relaxation`
 - Data-driven optimization: `DBSCAN`, `SVM`, `k-means`
