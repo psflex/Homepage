@@ -11,7 +11,7 @@ $\color{#0000FF}{1}$. $\color{#0000FF}{Power}$ $\color{#0000FF}{System}$ $\color
 - Data-driven optimization: `DBSCAN`, `SVM`, `k-means`
 
 
-**Project 1. Economic Dispatch for Renewable Power Systems with Flexible Load Transfer (China)**
+**Project 1. Economic Dispatch for Renewable Power Systems with Flexible Load Transfer**
 <br>
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="left" width="500">  
 </br>
@@ -42,7 +42,7 @@ $\color{#0000FF}{2}$. $\color{#0000FF}{High-Fidelity}$ $\color{#0000FF}{COMSOL}$
 - Battery Pack: `Electrochemical-Thermal Coupled Modeling`
 - Electric Circuit Breaker: `Arc Simulation`
 
-**Project 2. Mimic the Water Tree Growth in Medium Voltage Underground Cable to Assess Cable Condition and Predict Remaining Useful Life (Hong Kong)**
+**Project 2. Mimic the Water Tree Growth in Medium Voltage Underground Cable to Assess Cable Condition and Predict Remaining Useful Life**
 <p>
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="left" width="500">  
 </p>
