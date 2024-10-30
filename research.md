@@ -41,7 +41,7 @@ Representative Patents
 - S. Bu, G. Lu, E. Yim and **C. Lei**, “A Health Index System and Method of Predicting Health Condition in Underground Cables,” HK30064886, 08/07/2023, Hong Kong. (**Winning the Golden Prize at  49th The International Exhibition of Inventions Geneva, Switzerland, 2024**)
 <br><br/>
 <br><br/>
-<br><br/>
+
 
 
 **Project 2. Electrochemical-thermal coupled Blade Lithium-Ion Battery for BYD Company**
@@ -55,7 +55,7 @@ Representative References
 - **C. Lei**, Y. Christine Chen and S. Bu, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts,” **IEEE PES General Meeting 2025**, 2024.
 - **C. Lei**, Y. Christine Chen and S. Bu, “Aging-Aware Vehicle Battery Dispatch for Aggregators: A Digital-Twin-enabled Rolling Optimization Framework,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
 <br><br/>
-<br><br/>
+
 
 
 **Project 3. Decentralized Battery Dispatch Optimization**
