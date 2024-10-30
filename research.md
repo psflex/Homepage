@@ -21,7 +21,7 @@
 <br><br/>
 <br><br/>
 
-> [!NOTE]
+
 > ***Representative References***
 - **C. Lei**, S. Bu, Q. Wang, Q. Chen, L. Yang, and Y. Chi, “Look-ahead Rolling Economic Dispatch Approach for Wind-Thermal-Bundled Power System Considering Dynamic Ramping and Flexible Load Transfer Strategy,” **IEEE Transactions on Power Systems**, vol. 39, no. 1, pp. 186-202, Jan. 2024.
 - **C. Lei**, Q. Wang, G. Zhou, S. Bu, N. Zhou, T. Lin and W. Fang, “Probabilistic wind power expansion planning of bundled wind-thermal generation system with retrofitted coal-fired plants using load transfer optimization,” **International Journal of Electrical Power & Energy Systems**, vol. 151, 2023.
