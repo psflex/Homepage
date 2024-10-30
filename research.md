@@ -27,7 +27,7 @@
 
 **Project 2.1. Mimic the Water Tree Growth in Medium Voltage Underground Cable to Assess Cable Condition and Predict Remaining Useful Life**
 
-<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="center" width="700"> 
+<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="center" width="650"> 
 
 > ***Representative References***
 - S. Bu, G. Lu, E. Yim and **C. Lei**, “A Health Index System and Method of Predicting Health Condition in Underground Cables,” HK30064886, 08/07/2023, Hong Kong. (**Winning the Golden Prize at  49th The International Exhibition of Inventions Geneva, Switzerland, 2024**)
