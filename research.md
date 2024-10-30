@@ -31,9 +31,7 @@
 - Electric Circuit Breaker: `Arc Simulation`
 
 **Project 2. Mimic the Water Tree Growth in Medium Voltage Underground Cable to Assess Cable Condition and Predict Remaining Useful Life**
-<p>
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="left" width="500">  
-</p>
 <br><br/>
 <br><br/>
 <br><br/>
@@ -46,9 +44,7 @@
 
 
 **Project 3. Electrochemical-thermal coupled Blade Lithium-Ion Battery for BYD Company**
-<p>
-<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/battery.gif" align="left" width="500">  
-</p>
+<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/battery.gif" align="left" width="800">  
 <br><br/>
 <br><br/>
 <br><br/>
@@ -61,9 +57,7 @@
 - **C. Lei**, Y. Christine Chen and S. Bu, “Aging-Aware Vehicle Battery Dispatch for Aggregators: A Digital-Twin-enabled Rolling Optimization Framework,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
 
 **Project 4. Decentralized Battery Dispatch Optimization for EV Aggregator**
-<p>
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/battery.gif" align="left" width="500">  
-</p>
 <br><br/>
 <br><br/>
 <br><br/>
