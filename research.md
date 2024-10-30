@@ -54,7 +54,6 @@
 <br><br/>
 <br><br/>
 <br><br/>
-<br><br/>
 > ***Representative References***
 - **C. Lei**, Y. Christine Chen and S. Bu, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts,” **IEEE PES General Meeting 2025**, 2024.
 - **C. Lei**, Y. Christine Chen and S. Bu, “Aging-Aware Vehicle Battery Dispatch for Aggregators: A Digital-Twin-enabled Rolling Optimization Framework,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
