@@ -32,7 +32,6 @@
 > ***Representative References***
 - S. Bu, G. Lu, E. Yim and **C. Lei**, “A Health Index System and Method of Predicting Health Condition in Underground Cables,” HK30064886, 08/07/2023, Hong Kong. (**Winning the Golden Prize at  49th The International Exhibition of Inventions Geneva, Switzerland, 2024**)
 
-
 **Project 2.2. Electrochemical-thermal coupled Blade Lithium-Ion Battery for BYD Company**
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/battery.gif" align="center" width="700"> 
 
@@ -46,7 +45,6 @@
 > ***Representative References***
 - **C. Lei**, Y. Christine Chen and S. Bu, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts,” **IEEE PES General Meeting 2025**, 2024.
 - **C. Lei**, Y. Christine Chen and S. Bu, “A Data-driven Battery Dispatch Optimization for Electric Vehicle Aggregators Considering Coupled Electrochemical-Thermal Degradation,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
-<br><br/>
 
 ## <code style="color : blue">3. Cyber-Physical Security and Privacy Protection</code>
 - Cyber-Physical Security: `observability defense`, `false data injection`
