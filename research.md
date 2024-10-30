@@ -5,16 +5,15 @@
 - High-Fidelity Battery Simulation
 - Cyber-Physical Security and Privacy Protection
 
-$\color{#0000FF}{1}$. $\color{#0000FF}{Power}$ $\color{#0000FF}{System}$ $\color{#0000FF}{Optimization}$
+<font color=#0000FF >1. Power System Optimization</font>
 - Convex optimization: `convex hull relaxation`, `disjunctive programming`, `mixed-integer programming`
 - Decentralized computation: `Benders decomposition`, `ADMM`, `Lagrangian relaxation`
 - Data-driven optimization: `DBSCAN`, `SVM`, `k-means`
 
 
 **Project 1. Economic Dispatch for Renewable Power Systems with Flexible Load Transfer**
-<br>
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="left" width="500">  
-</br>
+<br><br/>
 <br><br/>
 <br><br/>
 <br><br/>
