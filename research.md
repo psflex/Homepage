@@ -7,7 +7,7 @@
 
 
 
-## <code style="color : #FFD700">1. Power System Optimization</code>
+## <code style="color : blue">1. Power System Optimization</code>
 - Convex optimization: `convex hull relaxation`, `disjunctive programming`, `mixed-integer programming`
 - Decentralized computation: `Benders decomposition`, `ADMM`, `Lagrangian relaxation`
 - Data-driven optimization: `DBSCAN`, `SVM`, `k-means`
