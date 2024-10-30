@@ -12,7 +12,7 @@
 
 
 **Project 1. Economic Dispatch for Renewable Power Systems with Flexible Load Transfer**
-<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="center" width="800"> 
+<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="center" width="700"> 
 
 > ***Representative References***
 - **C. Lei**, S. Bu, Q. Wang, Q. Chen, L. Yang, and Y. Chi, “Look-ahead Rolling Economic Dispatch Approach for Wind-Thermal-Bundled Power System Considering Dynamic Ramping and Flexible Load Transfer Strategy,” **IEEE Transactions on Power Systems**, vol. 39, no. 1, pp. 186-202, Jan. 2024.
@@ -27,21 +27,21 @@
 
 **Project 2. Mimic the Water Tree Growth in Medium Voltage Underground Cable to Assess Cable Condition and Predict Remaining Useful Life**
 
-<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="center" width="800"> 
+<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="center" width="700"> 
 
 > ***Representative References***
 - S. Bu, G. Lu, E. Yim and **C. Lei**, “A Health Index System and Method of Predicting Health Condition in Underground Cables,” HK30064886, 08/07/2023, Hong Kong. (**Winning the Golden Prize at  49th The International Exhibition of Inventions Geneva, Switzerland, 2024**)
 
 
 **Project 3. Electrochemical-thermal coupled Blade Lithium-Ion Battery for BYD Company**
-<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/battery.gif" align="center" width="800"> 
+<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/battery.gif" align="center" width="700"> 
 
 > ***Representative References***
 - **C. Lei**, Y. Christine Chen and S. Bu, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts,” **IEEE PES General Meeting 2025**, 2024.
 - **C. Lei**, Y. Christine Chen and S. Bu, “Aging-Aware Vehicle Battery Dispatch for Aggregators: A Digital-Twin-enabled Rolling Optimization Framework,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
 
 **Project 4. Decentralized Battery Dispatch Optimization for EV Aggregator**
-<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/battery.gif" align="center" width="500">  
+<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/battery.gif" align="center" width="700">  
 
 > ***Representative References***
 - **C. Lei**, Y. Christine Chen and S. Bu, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts,” **IEEE PES General Meeting 2025**, 2024.
