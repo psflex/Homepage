@@ -25,7 +25,7 @@
 - **C. Lei**, S. Bu, Q. Wang, N. Zhou, L. Yang, and X. Xiong, “Load transfer optimization considering hot-spot and top-oil temperature limits of transformers,” **IEEE Transactions on Power Delivery**, vol. 37, no. 3, pp. 2194-2208, June 2022.
 - **C. Lei**, S. Bu, J. Zhong, Q. Chen and Q. Wang, “Distribution Network Reconfiguration: A Disjunctive Convex Hull Approach,” **IEEE Transactions on Power Systems**, vol. 38, no. 6, pp. 5926-5929, Nov. 2023.
 
-## <code style="color : blue">2. High-Fidelity COMSOL Simulation</code> 
+## <code style="color : blue">2. High-Fidelity COMSOL Simulation (Battery and Cables)</code> 
 - Underground Cable: `Degraded Underground XLPE Cable`, `Life Cycle Prediction for Underground Cables`
 - Battery Pack: `Electrochemical-Thermal Coupled Modeling`
 - Electric Circuit Breaker: `Arc Simulation`
