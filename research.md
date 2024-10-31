@@ -12,7 +12,7 @@
 
 
 **Project 1.1. Economic Dispatch for Renewable Power Systems with Flexible Load Transfer**
-<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="center" width="700"> 
+<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/renewable_ppt.gif" align="center" width="700"> 
 
 > ***Representative References***
 - **C. Lei**, S. Bu, Q. Wang, Q. Chen, L. Yang, and Y. Chi, “Look-ahead Rolling Economic Dispatch Approach for Wind-Thermal-Bundled Power System Considering Dynamic Ramping and Flexible Load Transfer Strategy,” **IEEE Transactions on Power Systems**, vol. 39, no. 1, pp. 186-202, Jan. 2024.
