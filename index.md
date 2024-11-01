@@ -45,10 +45,12 @@ useful slides for talks/workshops
 - <a href='https://github.com/honolulufishing/honolulufishing/blob/main/Report_Chao_cqu.pptx' target="_blank">[Report]</a>
 
 
-## Links
-useful links for optimization toolbox and references
+## Optimization and Machine Learning Skills
+Experience in applying optimization packages, perfrom finite element simulation and using AI/ML frameworks (e.g., PyTorch)
 - <a href='https://www.mosek.com/' target="_blank">[MOSEK]</a>
 - <a href='https://www.ibm.com/products/ilog-cplex-optimization-studio' target="_blank">[CPLEX]</a>
 - <a href='https://minlp.com/baron-solver' target="_blank">[BARON]</a>
-- <a href='https://www.ubc.ca/' target="_blank">[UBC]</a>
-
+- <a href='https://juliapackages.com/c/optimization' target="_blank">[Julia]</a>
+- <a href='https://www.overleaf.com/' target="_blank">[Latex]</a>
+- <a href='https://www.python.org/' target="_blank">[Python]</a>
+- <a href='https://www.comsol.com/' target="_blank">[COMSOL]</a>
