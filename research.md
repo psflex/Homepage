@@ -50,7 +50,7 @@
 **Project 2.4. Optimization of Shipboard Power Systems with Storage Systems**
 
 > ***Representative References***
-- **C. Lei**, Y. Christine Chen and S. Bu, “Health-aware OPF for Battery-Powered Shipboard Power Systems,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
+- **C. Lei**, Y. Christine Chen and S. Bu, “Health-aware OPF for Shipboard Power Systems in Battery-Powered Ships,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
   
 ## <code style="color : blue">3. Cyber-Physical Security and Privacy Protection</code>
 - Cyber-Physical Security: `observability defense`, `false data injection`
