@@ -55,6 +55,7 @@ Journal Reviewer (Selected)
 - <a href='https://www.comsol.com/' target="_blank">[COMSOL]</a>
 4. Effective writing skills with typesetting software
 - <a href='https://www.overleaf.com/' target="_blank">[Latex]</a>
+- <a href='https://www.originlab.com/' target="_blank">[OriginLab]</a>
 
 ## Download 
 useful slides for talks/workshops
