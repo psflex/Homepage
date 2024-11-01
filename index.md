@@ -46,11 +46,14 @@ useful slides for talks/workshops
 
 
 ## Optimization and Machine Learning Skills
-Experience in applying optimization packages, perfrom finite element simulation and using AI/ML frameworks (e.g., PyTorch)
+1. Experience in applying optimization packages
 - <a href='https://www.mosek.com/' target="_blank">[MOSEK]</a>
 - <a href='https://www.ibm.com/products/ilog-cplex-optimization-studio' target="_blank">[CPLEX]</a>
 - <a href='https://minlp.com/baron-solver' target="_blank">[BARON]</a>
 - <a href='https://juliapackages.com/c/optimization' target="_blank">[Julia]</a>
-- <a href='https://www.overleaf.com/' target="_blank">[Latex]</a>
+2. Experience in using AI/ML frameworks (e.g., PyTorch)
 - <a href='https://www.python.org/' target="_blank">[Python]</a>
+3. Experience in perfroming finite element simulation for battery packs
 - <a href='https://www.comsol.com/' target="_blank">[COMSOL]</a>
+4. Effective writing skills with typesetting software
+- <a href='https://www.overleaf.com/' target="_blank">[Latex]</a>
