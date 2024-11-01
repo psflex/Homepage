@@ -39,11 +39,10 @@ Journal Reviewer (Selected)
 - IEEE Trans. on Energy Markets, Policy and Regulation
 - CSEE Journal of Power and Energy Systems
 - International Journal of Electrical Power & Energy Systems
-
-## Download 
-useful slides for talks/workshops
-- <a href='https://github.com/honolulufishing/honolulufishing/blob/main/Report_Chao_cqu.pptx' target="_blank">[Report]</a>
-
+- Energy System
+- Journal of Solar Energy
+- IEEE Open Access Journal of Power and Energy
+  
 ## Expertise in Computer Skills
 1. Experience in applying optimization packages
 - <a href='https://www.mosek.com/' target="_blank">[MOSEK]</a>
@@ -56,3 +55,8 @@ useful slides for talks/workshops
 - <a href='https://www.comsol.com/' target="_blank">[COMSOL]</a>
 4. Effective writing skills with typesetting software
 - <a href='https://www.overleaf.com/' target="_blank">[Latex]</a>
+
+## Download 
+useful slides for talks/workshops
+- <a href='https://github.com/honolulufishing/honolulufishing/blob/main/Report_Chao_cqu.pptx' target="_blank">[Report]</a>
+
