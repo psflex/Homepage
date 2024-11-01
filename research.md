@@ -47,10 +47,10 @@
 - **C. Lei**, Y. Christine Chen and S. Bu, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts,” **IEEE PES General Meeting 2025**, 2024.
 - **C. Lei**, Y. Christine Chen and S. Bu, “A Data-driven Battery Dispatch Optimization for Electric Vehicle Aggregators Considering Coupled Electrochemical-Thermal Degradation,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
 
-**Project 2.4. Health-aware OPF for Shipboard Power Systems with Storage Systems**
+**Project 2.4. Optimization of Shipboard Power Systems with Storage Systems**
 
 > ***Representative References***
-- **C. Lei**, Y. Christine Chen and S. Bu, “Health-aware OPF for Shipboard Power Systems with Storage Systems,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
+- **C. Lei**, Y. Christine Chen and S. Bu, “Health-aware OPF for Battery-Powered Shipboard Power Systems,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
   
 ## <code style="color : blue">3. Cyber-Physical Security and Privacy Protection</code>
 - Cyber-Physical Security: `observability defense`, `false data injection`
