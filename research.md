@@ -60,4 +60,4 @@
 > ***Representative References***
 - **C. Lei**, S. Bu, Q. Wang and L. Liang, “Observability Defense-Constrained Distribution Network Reconfiguration for Cyber-Physical Security Enhancement,” **IEEE Transactions on Smart Grid**, vol. 15, no. 2, pp. 2379-2382, March 2024.
 - **C. Lei**, S. Bu, Q. Chen, Q. Wang and D. Srinivasan, “Decentralized Optimal Power Flow for Multi-Agent Active Distribution Networks: A Differentially Private Consensus ADMM Algorithm,” **IEEE Transactions on Smart Grid**, vol. 15, no. 6, pp. 6175-6178, Nov. 2024.
-- **C. Lei**, S. Bu, Q. Chen, Q. Wang and D. Srinivasan, “A Consensus ADMM-based Differentially Private Reconfiguration Approach for Multi-Agent Active Distribution Networks,” IEEE Transactions on Energy Markets, Policy and Regulation, 2024 (Under Review).
+- **C. Lei**, S. Bu, Q. Chen, Q. Wang and D. Srinivasan, “A Consensus ADMM-based Differentially Private Reconfiguration Approach for Multi-Agent Active Distribution Networks,” **IEEE Transactions on Energy Markets, Policy and Regulation**, 2024 (Under Review).
