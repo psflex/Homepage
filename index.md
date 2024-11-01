@@ -44,8 +44,7 @@ Journal Reviewer (Selected)
 useful slides for talks/workshops
 - <a href='https://github.com/honolulufishing/honolulufishing/blob/main/Report_Chao_cqu.pptx' target="_blank">[Report]</a>
 
-
-## Optimization and Machine Learning Skills
+## Expertise in Computer Skills
 1. Experience in applying optimization packages
 - <a href='https://www.mosek.com/' target="_blank">[MOSEK]</a>
 - <a href='https://www.ibm.com/products/ilog-cplex-optimization-studio' target="_blank">[CPLEX]</a>
