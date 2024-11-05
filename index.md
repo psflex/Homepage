@@ -48,6 +48,7 @@ Journal Reviewer (Selected)
 - <a href='https://www.mosek.com/' target="_blank">[MOSEK]</a>
 - <a href='https://www.ibm.com/products/ilog-cplex-optimization-studio' target="_blank">[CPLEX]</a>
 - <a href='https://minlp.com/baron-solver' target="_blank">[BARON]</a>
+- <a href='https://yalmip.github.io/solver/sedumi/' target="_blank">[SeDuMi]</a>
 - <a href='https://juliapackages.com/c/optimization' target="_blank">[Julia]</a>
 2. Experience in using AI/ML frameworks (e.g., PyTorch)
 - <a href='https://www.python.org/' target="_blank">[Python]</a>
