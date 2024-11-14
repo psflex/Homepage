@@ -50,7 +50,7 @@ Journal Reviewer (Selected)
 - <a href='https://minlp.com/baron-solver' target="_blank">[BARON]</a>
 - <a href='https://yalmip.github.io/solver/sedumi/' target="_blank">[SeDuMi]</a>
 - <a href='https://juliapackages.com/c/optimization' target="_blank">[Julia]</a>
-2. Experience in using AI/ML frameworks (e.g., PyTorch)
+2. Experience in using AI/ML frameworks (e.g., PyTorch, Neural ODE, Input Convex Neural Network, Fully Monotonic Neural Networks, Lipschitz Neural Networks)
 - <a href='https://www.python.org/' target="_blank">[Python]</a>
 3. Experience in performing finite element simulation for battery packs
 - <a href='https://www.comsol.com/' target="_blank">[COMSOL]</a>
