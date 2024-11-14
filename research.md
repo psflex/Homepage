@@ -1,15 +1,15 @@
 
 
 ## Research Interests and Projects
-- Power System Optimization
+- Power System Optimization and AI
 - High-Fidelity COMSOL Simulation for battery and underground cables
 - Cyber-Physical Security and Privacy Protection
 
-## <code style="color : blue">1. Power System Optimization</code>
+## <code style="color : blue">1. Power System Optimization and AI</code>
 - Convex optimization: `convex hull relaxation`, `disjunctive programming`, `mixed-integer programming`
 - Decentralized computation: `Benders decomposition`, `ADMM`, `Lagrangian relaxation`
 - Data-driven optimization: `DBSCAN`, `SVM`, `k-means`
-
+- Neural Networks: Neural ODE, Input Convex Neural Network, Fully Monotonic Neural Networks, Lipschitz Neural Networks
 
 **Project 1.1. Economic Dispatch for Renewable Power Systems with Flexible Load Transfer**
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/renewable_ppt.gif" align="center" width="700"> 
