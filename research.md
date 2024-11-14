@@ -9,7 +9,7 @@
 - Convex optimization: `convex hull relaxation`, `disjunctive programming`, `mixed-integer programming`
 - Decentralized computation: `Benders decomposition`, `ADMM`, `Lagrangian relaxation`
 - Data-driven optimization: `DBSCAN`, `SVM`, `k-means`
-- Neural Networks: Neural ODE, Input Convex Neural Network, Fully Monotonic Neural Networks, Lipschitz Neural Networks
+- Neural Networks: `Neural ODE`, `Input Convex Neural Network`, `Fully Monotonic Neural Networks`, `Lipschitz Neural Networks`, `Multi-layer perceptron`, etc.
 
 **Project 1.1. Economic Dispatch for Renewable Power Systems with Flexible Load Transfer**
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/renewable_ppt.gif" align="center" width="700"> 
