@@ -5,7 +5,7 @@
 - High-Fidelity COMSOL Simulation for battery and underground cables
 - Cyber-Physical Security and Privacy Protection
 
-## <code style="color : blue">1. Power System Optimization and AI</code>
+## <code style="color : blue">1. Power System Optimization and AI (System Level)</code>
 - Convex optimization: `convex hull relaxation`, `disjunctive programming`, `mixed-integer programming`
 - Decentralized computation: `Benders decomposition`, `ADMM`, `Lagrangian relaxation`
 - Data-driven optimization: `DBSCAN`, `SVM`, `k-means`
@@ -21,7 +21,7 @@
 - **C. Lei**, S. Bu, J. Zhong, Q. Chen and Q. Wang, “Distribution Network Reconfiguration: A Disjunctive Convex Hull Approach,” **IEEE Transactions on Power Systems**, vol. 38, no. 6, pp. 5926-5929, Nov. 2023.
 - **C. Lei**, S. Bu and Q. Wang, “Load Transfer Optimization with Graph Characterizations on Different Time-Scales for Multi-Voltage Distribution Networks Against Overload Cascades,” **IEEE Transactions on Power Delivery**, 2024 (Under Review).
 
-## <code style="color : blue">2. High-Fidelity COMSOL Simulation (Battery and Cables)</code> 
+## <code style="color : blue">2. High-Fidelity COMSOL Simulation (Device Level)</code> 
 - Underground Cable: `Degraded Underground XLPE Cable`, `Life Cycle Prediction for Underground Cables`
 - Battery Pack: `Electrochemical-Thermal Coupled Modeling`
 - Electric Circuit Breaker: `Arc Simulation`
@@ -52,7 +52,7 @@
 > ***Representative References***
 - **C. Lei**, Y. Christine Chen and S. Bu, “Health-aware OPF for Shipboard Power Systems in Battery-Powered Ships,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
   
-## <code style="color : blue">3. Cyber-Physical Security and Privacy Protection</code>
+## <code style="color : blue">3. Cyber-Physical Security and Privacy Protection (Information Level)</code>
 - Cyber-Physical Security: `observability defense`, `false data injection`
 - Privacy Protection: `differential privacy`, `Homomorphic encryption`
 - Differentially private optimization: `Gaussian mechanism`, `Laplace mechanism`
