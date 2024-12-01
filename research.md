@@ -3,7 +3,7 @@
 ## Research Interests and Projects
 - Power System Optimization and AI
 - High-Fidelity COMSOL Simulation for battery and underground cables
-- Cyber-Physical Security and Privacy Protection
+- Cyber-Physical System Security and Privacy Protection
 
 ## <code style="color : blue">1. Power System Optimization and AI (System Level)</code>
 - Convex optimization: `convex hull relaxation`, `disjunctive programming`, `mixed-integer programming`
