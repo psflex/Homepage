@@ -1,6 +1,9 @@
 
 
-## Research Interests and Projects
+## Research Framework and Interests
+Decentralized control solves a few challenges for our changing grid. Billions of new energy devices generating energy from variable resources are difficult to manage centrally-----the problem is too complex. 
+Thus, I focus on the decentralized optimal control for power systems and the development of the underlying algorithms. My aim is to deliver an optimal solution at the system level, while ensuring feasibility at the device level and cyber-physical security at the information level concurrently.
+
 - Power System Optimization and AI
 - High-Fidelity COMSOL Simulation for battery and underground cables
 - Cyber-Physical System Security and Privacy Protection
