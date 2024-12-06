@@ -1,7 +1,7 @@
 
 
 ## Research Framework and Interests
-Billions of new energy and storage devices from variable resources are difficult to manage centrally for our large-scale grids-----the optimization problem is too complex. Thus, I focus on the decentralized optimal control for power system applications and the development of the underlying algorithms. My research vision aims to explore an optimal solution at the system level, while ensuring feasibility at the device level and cyber-physical security at the information level concurrently. Here are my research interests.
+Billions of new energy and storage devices from variable resources are difficult to manage centrally for our large-scale grids-----the optimization problem is too complex. Thus, I focus on the decentralized optimal control for power system applications and the development of the underlying algorithms. My research vision aims to explore an optimal solution at the system level, while ensuring feasibility at the device level and cyber-physical security at the information level concurrently. Here are my research interests:
 
 - Power System Optimization and AI (System Level)
 - High-Fidelity COMSOL Simulation for battery and underground cables (Device Level)
