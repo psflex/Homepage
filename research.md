@@ -1,7 +1,7 @@
 
 
 ## Research Framework and Interests
-My research expertise lies in Advanced Optimization for Power-to-X (P2X) applications and the development of foundational algorithms. My research vision focuses on simultaneously achieving an optimal solution at the system level, ensuring feasibility at the device level, and enhancing cyber-physical security at the information level. Here are my research interests:
+I specialize in Advanced Optimization for Power-to-X (P2X) applications and the development of underlying algorithms. My research vision is to achieve a holistic approach to P2X systems simultaneously by achieving an optimal solution at the system level, ensuring feasibility at the device level, and enhancing cyber-physical security at the information level. Here are my research interests:
 
 - Power System Optimization and AI (System Level)
 - High-Fidelity COMSOL Simulation for battery and underground cables (Device Level)
