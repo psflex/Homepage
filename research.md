@@ -21,7 +21,7 @@ I specialize in Advanced Optimization for Grid-Edge Flexibility Enhancement and 
 - **C. Lei**, Q. Wang, G. Zhou, S. Bu, N. Zhou, T. Lin and W. Fang, “Probabilistic wind power expansion planning of bundled wind-thermal generation system with retrofitted coal-fired plants using load transfer optimization,” **International Journal of Electrical Power & Energy Systems**, vol. 151, 2023.
 - **C. Lei**, S. Bu, Q. Wang, N. Zhou, L. Yang, and X. Xiong, “Load transfer optimization considering hot-spot and top-oil temperature limits of transformers,” **IEEE Transactions on Power Delivery**, vol. 37, no. 3, pp. 2194-2208, June 2022.
 - **C. Lei**, S. Bu, J. Zhong, Q. Chen and Q. Wang, “Distribution Network Reconfiguration: A Disjunctive Convex Hull Approach,” **IEEE Transactions on Power Systems**, vol. 38, no. 6, pp. 5926-5929, Nov. 2023.
-- **C. Lei**, S. Bu and Q. Wang, “Load Transfer Optimization with Graph Characterizations on Different Time-Scales for Multi-Voltage Distribution Networks Against Overload Cascades,” **IEEE Transactions on Power Delivery**, 2025 (Early Access).
+- **C. Lei**, N. Wei, Q. Wang and S. Bu, “Load Transfer Optimization with Graph Characterizations on Multiple Time-Scales for Multi-Voltage Distribution Networks Against Overload Cascades,” **IEEE Transactions on Power Delivery**, 2025 (Early Access).
 
 ## <code style="color : blue">2. High-Fidelity COMSOL Simulation (Device Level)</code> 
 - Underground Cable: `Degraded Underground XLPE Cable`, `Life Cycle Prediction for Underground Cables`
