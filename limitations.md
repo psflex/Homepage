@@ -19,7 +19,8 @@ author_profile: true
 - **C. Lei**, S. Bu, J. Zhong, Q. Chen and Q. Wang, "Distribution Network Reconfiguration: A Disjunctive Convex Hull Approach," **IEEE Transactions on Power Systems**, vol. 38, no. 6, pp. 5926-5929, Nov. 2023
 - H. Wang, F. Gao, S. Bu, **C. Lei** and Q. Chen, “Instability Pattern-guided Model Updating Method for Data-driven Transient Stability Assessment," **IEEE Transactions on Power Systems**, 2023 (Early Access).
 - Q. Chen, S. Bu, H. Wang and **C. Lei**, “Real-time Multi-stability Risk Assessment and Visualization of Power Systems: A Graph Neural Network-based Method," **IEEE Transactions on Power Systems**, 2024 (Early Access).
-
+- **C. Lei**, N. Wei, Q. Wang and Siqi Bu, "Load Transfer Optimization with Graph Characterizations on Different Time-Scales for Multi-Voltage Distribution Networks Against Overload Cascades," **IEEE Transactions on Power Delivery**, 2025 (Early Access).
+  
 ## Conference Publications
 - **C. Lei**, S. Bu, Q. Wang and Q. Chen, "Dynamic Ramping of Retrofitted Coal-Fired Power Plants: Basic Formulation and Tightened Approximation," 2023 IEEE Power & Energy Society General Meeting (PESGM), Orlando, FL, USA, pp. 1-6, 2023.
 - **C. Lei**, C. Li, Q. Wang, J. Wang and N. Zhou, "An Optimal Three-Phase Power Control Method of Distribution Network Based on Split-Phase SOPs," 2019 IEEE Innovative Smart Grid Technologies - Asia (ISGT Asia), Chengdu, China, pp. 1580-1588, 2019.
@@ -29,6 +30,5 @@ author_profile: true
 
 ## Journal Papers under ongoing peer review
 - **C. Lei**, S. Bu, Q. Wang and D. Srinivasan, "Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decomposition-Coordination-based Least Squares Approach with Disjunctive Cuts," **IEEE Transactions on Power Systems**, 2024 (Under Review)
-- **C. Lei**, S. Bu and Q. Wang, "Load Transfer Optimization with Graph Characterizations on Different Time-Scales for Multi-Voltage Distribution Networks Against Overload Cascades," **IEEE Transactions on Power Delivery**, 2024 (Under Review).
 - **C. Lei**, S. Bu, Q. Chen, Q. Wang and D. Srinivasan, "A Consensus ADMM-based Differentially Private Reconfiguration Approach for Multi-Agent Active Distribution Networks," **IEEE Transactions on Energy Markets, Policy and Regulation**, 2024 (Under Review).
 - **C. Lei**, S. Bu, Q. Wang and D. Srinivasan, "Aging-Aware Vehicle Battery Dispatch for Aggregators: A Digital-Twin-enabled Rolling Optimization Framework," **IEEE Transactions on Power Systems**, 2024 (working paper).
