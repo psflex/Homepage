@@ -1,7 +1,7 @@
 
 
 ## Research Framework and Interests
-I specialize in Advanced Optimization for Power-to-X (P2X) applications and the development of underlying algorithms. My research vision is to achieve a holistic approach to P2X systems simultaneously by achieving an optimal solution at the system level, ensuring feasibility at the device level, and enhancing cyber-physical security at the information level. Here are my research interests:
+I specialize in Advanced Optimization for Grid-Edge Flexibility Enhancement and the Development of Underlying Algorithms. My research vision is to achieve a holistic approach to grid-edge systems simultaneously by achieving an optimal solution at the system level, ensuring feasibility at the device level, and enhancing cyber-physical security at the information level. Here are my research interests:
 
 - Power System Optimization and AI (System Level)
 - High-Fidelity COMSOL Simulation for battery and underground cables (Device Level)
@@ -21,7 +21,7 @@ I specialize in Advanced Optimization for Power-to-X (P2X) applications and the 
 - **C. Lei**, Q. Wang, G. Zhou, S. Bu, N. Zhou, T. Lin and W. Fang, “Probabilistic wind power expansion planning of bundled wind-thermal generation system with retrofitted coal-fired plants using load transfer optimization,” **International Journal of Electrical Power & Energy Systems**, vol. 151, 2023.
 - **C. Lei**, S. Bu, Q. Wang, N. Zhou, L. Yang, and X. Xiong, “Load transfer optimization considering hot-spot and top-oil temperature limits of transformers,” **IEEE Transactions on Power Delivery**, vol. 37, no. 3, pp. 2194-2208, June 2022.
 - **C. Lei**, S. Bu, J. Zhong, Q. Chen and Q. Wang, “Distribution Network Reconfiguration: A Disjunctive Convex Hull Approach,” **IEEE Transactions on Power Systems**, vol. 38, no. 6, pp. 5926-5929, Nov. 2023.
-- **C. Lei**, S. Bu and Q. Wang, “Load Transfer Optimization with Graph Characterizations on Different Time-Scales for Multi-Voltage Distribution Networks Against Overload Cascades,” **IEEE Transactions on Power Delivery**, 2024 (Under Review).
+- **C. Lei**, S. Bu and Q. Wang, “Load Transfer Optimization with Graph Characterizations on Different Time-Scales for Multi-Voltage Distribution Networks Against Overload Cascades,” **IEEE Transactions on Power Delivery**, 2025 (Early Access).
 
 ## <code style="color : blue">2. High-Fidelity COMSOL Simulation (Device Level)</code> 
 - Underground Cable: `Degraded Underground XLPE Cable`, `Life Cycle Prediction for Underground Cables`
