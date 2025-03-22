@@ -19,7 +19,7 @@ author_profile: true
 - **C. Lei**, S. Bu, J. Zhong, Q. Chen and Q. Wang, "Distribution Network Reconfiguration: A Disjunctive Convex Hull Approach," **IEEE Transactions on Power Systems**, vol. 38, no. 6, pp. 5926-5929, Nov. 2023
 - H. Wang, F. Gao, S. Bu, **C. Lei** and Q. Chen, “Instability Pattern-guided Model Updating Method for Data-driven Transient Stability Assessment," **IEEE Transactions on Power Systems**, 2023 (Early Access).
 - Q. Chen, S. Bu, H. Wang and **C. Lei**, “Real-time Multi-stability Risk Assessment and Visualization of Power Systems: A Graph Neural Network-based Method," **IEEE Transactions on Power Systems**, 2024 (Early Access).
-- **C. Lei**, N. Wei, Q. Wang and Siqi Bu, "Load Transfer Optimization with Graph Characterizations on Different Time-Scales for Multi-Voltage Distribution Networks Against Overload Cascades," **IEEE Transactions on Power Delivery**, 2025 (Early Access).
+- **C. Lei**, N. Wei, Q. Wang and S. Bu, "Load Transfer Optimization with Graph Characterizations on Multiple Time-Scales for Multi-Voltage Distribution Networks Against Overload Cascades," **IEEE Transactions on Power Delivery**, 2025 (Early Access).
   
 ## Conference Publications
 - **C. Lei**, S. Bu, Q. Wang and Q. Chen, "Dynamic Ramping of Retrofitted Coal-Fired Power Plants: Basic Formulation and Tightened Approximation," 2023 IEEE Power & Energy Society General Meeting (PESGM), Orlando, FL, USA, pp. 1-6, 2023.
