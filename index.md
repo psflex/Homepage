@@ -21,7 +21,7 @@ I am currently a postdoctoral fellow supervised by Prof. <a href='https://ece.ub
 
 ## News
 - *2025.04*: &nbsp;🎉🎉 Our book 'Load Transfer Optimization of Smart Distribution Networks' has been published by China Electric Power Press in 2025.
-  <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/3.png" align="left" width="120">  <br><br/><br><br/><br><br/><br><br/>
+  <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/3.png" align="left" width="120">  <br><br/><br><br/><br><br/>
 - *2025.03*: &nbsp;🎉🎉 Our paper 'Load Transfer Optimization with Graph Characterizations on Multiple Time-Scales for Multi-Voltage Distribution Networks Against Overload Cascades' has been accepted by IEEE Transactions on Power Delivery. (<a href='https://ieeexplore.ieee.org/document/10841981/' target="_blank"> DOI: 10.1109/TPWRD.2025.3553041</a>)
 - *2025.03*: &nbsp;🎉🎉 Our conference paper to PES General Meeting 2025 in Austin, Texas, with the title 'Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts' has been accepted.
 - *2025.01*: &nbsp;🎉🎉 Our paper 'Model-Data-Driven Approach for Achieving Decoupled Power Flow and Its Application in Asymmetric Bipolar DC Distribution Networks' has been accepted by IEEE Transactions on Industry Applications. (<a href='https://ieeexplore.ieee.org/document/10841981/' target="_blank"> DOI: 10.1109/TIA.2025.3529803</a>)
