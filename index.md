@@ -40,22 +40,23 @@ Research Group Members
 - <a href='https://raw.githubusercontent.com/honolulufishing/Homepage/main/3.png' target="_blank">[Group Members]</a>
 
 Journal Reviewer (Selected)
-- IEEE Trans. on Power Systems
-- IEEE Trans. on Smart Grid
-- IEEE Trans. on Sustainable Energy
-- IEEE PES Power Engineering Letters
-- IEEE Trans. on Energy Markets, Policy and Regulation
-- IEEE Trans. on Industrial Applications
-- IEEE Trans.on Consumer Electronics
+- IEEE Trans. on Power Systems(TPWRS)
+- IEEE Trans. on Smart Grid(TSG)
+- IEEE Trans. on Sustainable Energy(TSTE)
+- IEEE Trans. on Energy Markets, Policy and Regulation(TEMPR)
+- IEEE Trans. on Industrial Applications(TIA)
+- IEEE Trans. on Consumer Electronics(TCE)
+- IEEE PES Power Engineering Letters(PESL)
+- IEEE Open Access Journal of Power and Energy(OAJPE)
+- Protection and Control of Modern Power Systems(MPCE)
+- International Journal of Electrical Power & Energy Systems(IJEPES)
 - CSEE Journal of Power and Energy Systems
-- International Journal of Electrical Power & Energy Systems
 - Energy System
 - Journal of Solar Energy
-- IEEE Open Access Journal of Power and Energy
 - IET Renewable Power Generation
 - Energy Conversion and Economics
 - Journal of Energy Engineering
-- Protection and Control of Modern Power Systems
+
 
 ## Expertise in Computer Skills
 1. Experience in applying optimization packages
