@@ -1,7 +1,7 @@
 
 
 ## Research Framework and Interests
-I specialize in Advanced Optimization for Grid-Edge Flexibility Enhancement and the Development of Underlying Algorithms. My research vision is to achieve a holistic approach to grid-edge systems simultaneously by achieving an optimal solution at the system level, ensuring feasibility at the device level, and enhancing cyber-physical security at the information level. Here are my research interests:
+I specialize in Advanced Optimization for Power System Flexibility, Cyber-Physical System Security and Privacy Protection towards the affordable, reliable and sustainable goal for the clean energy future. My research vision is to adopt a holistic approach to enhancing the flexibility of high-renewable-energy systems, which involves achieving an optimal dispatch solution at the system level, ensuring feasibility at the device level, and strengthening cyber-physical and privacy security at the information level. Here are my research interests:
 
 - Power System Optimization and AI (System Level)
 - High-Fidelity COMSOL Simulation for battery and underground cables (Device Level)
