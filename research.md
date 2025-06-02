@@ -55,7 +55,7 @@ I specialize in Advanced Optimization for Power System Flexibility, Cyber-Physic
 - Differentially private optimization: `Gaussian mechanism`, `Laplace mechanism`
   
 **Project 3.1. Cyber-Physical Security and Privacy Protection for Smart Distribution Grids**
-  <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/BDO_ppt.gif" align="center" width="700">
+  <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cyber_ppt.gif" align="center" width="700">
   
 > ***Representative References***
 - **C. Lei**, S. Bu, Q. Wang and L. Liang, “Observability Defense-Constrained Distribution Network Reconfiguration for Cyber-Physical Security Enhancement,” **IEEE Transactions on Smart Grid**, vol. 15, no. 2, pp. 2379-2382, March 2024.
