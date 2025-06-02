@@ -53,7 +53,7 @@ I specialize in Advanced Optimization for Power System Flexibility, Cyber-Physic
 - Cyber-Physical Security: `observability defense`, `false data injection`
 - Privacy Protection: `differential privacy`, `Homomorphic encryption`
 - Differentially private optimization: `Gaussian mechanism`, `Laplace mechanism`
-- 
+  
 **Project 3.1. Cyber-Physical Security and Privacy Protection for Smart Distribution Grids**
   <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/BDO_ppt.gif" align="center" width="700">
   
