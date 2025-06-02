@@ -12,7 +12,7 @@ author_profile: true
 <br><font size=4 >Research Fellow</font>
 <br>Department of Electrical and Computer Engineering 
 <br>The University of British Columbia, Vancouver, BC, Canada
-<br>Email: <a href="mailto:21118924r@connect.polyu.hk">21118924r@connect.polyu.hk</a> and <a href="mailto:chao.lei@ubc.ca">chao.lei@ubc.ca</a>
+<br>Email: <a href="mailto:21118924r@connect.polyu.hk">21118924r@connect.polyu.hk</a> and <a href="mailto:chaolei@ece.ubc.ca">chaolei@ece.ubc.ca</a>
 <br><br/>
 </p>
 
