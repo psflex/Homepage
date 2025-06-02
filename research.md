@@ -23,7 +23,7 @@ I specialize in Advanced Optimization for Power System Flexibility, Cyber-Physic
 - **C. Lei**, S. Bu, J. Zhong, Q. Chen and Q. Wang, “Distribution Network Reconfiguration: A Disjunctive Convex Hull Approach,” **IEEE Transactions on Power Systems**, vol. 38, no. 6, pp. 5926-5929, Nov. 2023.
 - **C. Lei**, N. Wei, Q. Wang and S. Bu, “Load Transfer Optimization with Graph Characterizations on Multiple Time-Scales for Multi-Voltage Distribution Networks Against Overload Cascades,” **IEEE Transactions on Power Delivery**, 2025 (Early Access).
 
-## <code style="color : blue">Device Level: High-Fidelity COMSOL Simulation-enabled Grid-Edge Optimization</code> 
+## <code style="color : blue">Device Level: COMSOL Simulation-enabled Grid-Edge Optimization</code> 
 - Underground Cable: `Degraded Underground XLPE Cable`, `Life Cycle Prediction for Underground Cables`
 - Battery Pack: `Electrochemical-Thermal Coupled Modeling`
 - Electric Circuit Breaker: `Arc Simulation`
@@ -42,21 +42,20 @@ I specialize in Advanced Optimization for Power System Flexibility, Cyber-Physic
 - **C. Lei**, Y. Christine Chen and S. Bu, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts,” **IEEE PES General Meeting 2025**, 2025 (Best Paper Award).
 - **C. Lei**, Y. Christine Chen and S. Bu, “Aging-Aware Vehicle Battery Dispatch for Aggregators: A Digital-Twin-enabled Rolling Optimization Framework,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
 
-**Project 2.3. Decentralized Battery Dispatch Optimization for EV Aggregators**
+**Project 2.3. Efficient Battery Dispatch Optimization for Vehicle-to-Grid (V2G) and Ship-to-Grid (S2G)**
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/BDO_ppt.gif" align="center" width="700">  
 
 > ***Representative References***
 - **C. Lei**, Y. Christine Chen and S. Bu, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts,” **IEEE PES General Meeting 2025**, 2025 (Best Paper Award).
-
-**Project 2.4. Optimization of Battery-powered Electric Ships**
-
-> ***Representative References***
 - **C. Lei**, S. Li and Y. Christine Chen, “Optimal Ship-to-Grid Dispatch Considering Battery Thermal and Voltage Electrochemical-Thermal-Coupled Constraints,” **IEEE Transactions  on Power Systems**, 2025 (under review).
  
 ## <code style="color : blue">Information Level: Cyber-Physical Security and Privacy Protection</code>
 - Cyber-Physical Security: `observability defense`, `false data injection`
 - Privacy Protection: `differential privacy`, `Homomorphic encryption`
 - Differentially private optimization: `Gaussian mechanism`, `Laplace mechanism`
+- 
+**Project 3.1. Cyber-Physical Security and Privacy Protection for Smart Distribution Grids**
+  <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/BDO_ppt.gif" align="center" width="700">
   
 > ***Representative References***
 - **C. Lei**, S. Bu, Q. Wang and L. Liang, “Observability Defense-Constrained Distribution Network Reconfiguration for Cyber-Physical Security Enhancement,” **IEEE Transactions on Smart Grid**, vol. 15, no. 2, pp. 2379-2382, March 2024.
