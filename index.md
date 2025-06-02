@@ -24,8 +24,7 @@ I currently a research fellow working with Prof. <a href='https://ece.ubc.ca/y-c
 - *2025.06*: &nbsp;🎉🎉 I have been nominated as an Associate Editor for the IEEE Canadian Journal of Electrical and Computer Engineering (IEEE CJECE). <a href='http://journal.ieee.ca/en/editorial/assoceds/' target="_blank">[Link]</a>
 - *2025.05*: &nbsp;🎉🎉 Our book chapter 'Chapter 3: Economic Dispatch of Wind and Thermal Bundled Power Systems' has been published in Power and Energy Resources: Modelling and Optimization by Springer Nature in 2025. <a href='https://link.springer.com/book/10.1007/978-981-96-2612-0' target="_blank">[Link]</a>
 - *2025.05*: &nbsp;🎉🎉 Our book chapter 'Chapter 9: Distribution Network Reconfiguration' has been published in Power and Energy Resources: Modelling and Optimization by Springer Nature in 2025. <a href='https://link.springer.com/book/10.1007/978-981-96-2612-0' target="_blank">[Link]</a>
-- *2025.04*: &nbsp;🎉🎉 Our book 'Load Transfer Optimization of Smart Distribution Networks' has been published by China Electric Power Press in 2025.
-  <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/3.png" align="left" width="120">  <br><br/><br><br/><br><br/>
+- *2025.04*: &nbsp;🎉🎉 Our book 'Load Transfer Optimization of Smart Distribution Networks' has been published by China Electric Power Press in 2025. <a href='https://raw.githubusercontent.com/honolulufishing/Homepage/main/3.png' target="_blank">[Link]</a>
 - *2025.03*: &nbsp;🎉🎉 Our paper 'Load Transfer Optimization with Graph Characterizations on Multiple Time-Scales for Multi-Voltage Distribution Networks Against Overload Cascades' has been accepted by IEEE Transactions on Power Delivery. <a href='https://ieeexplore.ieee.org/document/11008705' target="_blank">[Link]</a>
 - *2025.03*: &nbsp;🎉🎉 Our conference paper to PES General Meeting 2025 in Austin, Texas, with the title 'Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts' has been accepted.
 - *2025.01*: &nbsp;🎉🎉 Our paper 'Model-Data-Driven Approach for Achieving Decoupled Power Flow and Its Application in Asymmetric Bipolar DC Distribution Networks' has been accepted by IEEE Transactions on Industry Applications. <a href='https://ieeexplore.ieee.org/document/10841981/' target="_blank">[Link]</a>
@@ -37,8 +36,8 @@ I currently a research fellow working with Prof. <a href='https://ece.ubc.ca/y-c
 Research Highlights with Representative Publications and Patents
 - [Research Highlights](research.md){:target="_blank"}
 
-Teaching and Services
-- [Publications](limitations.md){:target="_blank"}
+Research Group Memebers
+- <a href='https://raw.githubusercontent.com/honolulufishing/Homepage/main/3.png' target="_blank">[Group Memebers]</a>
 
 Journal Reviewer (Selected)
 - IEEE Trans. on Power Systems
