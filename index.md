@@ -36,22 +36,27 @@ I currently a research fellow working with Prof. <a href='https://ece.ubc.ca/y-c
 Research Highlights with Representative Publications and Patents
 - [[Research Highlights]](research.md){:target="_blank"}
 
-Research Group Memebers
-- <a href='https://raw.githubusercontent.com/honolulufishing/Homepage/main/3.png' target="_blank">[Group Memebers]</a>
+Research Group Members
+- <a href='https://raw.githubusercontent.com/honolulufishing/Homepage/main/3.png' target="_blank">[Group Members]</a>
 
 Journal Reviewer (Selected)
 - IEEE Trans. on Power Systems
 - IEEE Trans. on Smart Grid
 - IEEE Trans. on Sustainable Energy
-- IEEE Trans. on Power Delivery
-- Power Engineering Letter
+- IEEE PES Power Engineering Letters
 - IEEE Trans. on Energy Markets, Policy and Regulation
+- IEEE Trans. on Industrial Applications
+- IEEE Trans.on Consumer Electronics
 - CSEE Journal of Power and Energy Systems
 - International Journal of Electrical Power & Energy Systems
 - Energy System
 - Journal of Solar Energy
 - IEEE Open Access Journal of Power and Energy
-  
+- IET Renewable Power Generation
+- Energy Conversion and Economics
+- Journal of Energy Engineering
+- Protection and Control of Modern Power Systems
+
 ## Expertise in Computer Skills
 1. Experience in applying optimization packages
 - <a href='https://www.mosek.com/' target="_blank">[MOSEK]</a>
