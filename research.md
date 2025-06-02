@@ -14,7 +14,7 @@ I specialize in Advanced Optimization for Power System Flexibility, Cyber-Physic
 - Neural Networks: `Neural ODE`, `Input Convex Neural Network`, `Fully Monotonic Neural Networks`, `Lipschitz Neural Networks`, `Multi-layer perceptron`, etc.
 
 **Project 1.1. Economic Dispatch for Renewable Power Systems with Flexible Load Transfer**
-<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/renewable_ppt.gif" align="center" width="700"> 
+<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/renewable_ppt.gif" align="center" width="900"> 
 
 > ***Representative References***
 - **C. Lei**, S. Bu, Q. Wang, Q. Chen, L. Yang, and Y. Chi, “Look-ahead Rolling Economic Dispatch Approach for Wind-Thermal-Bundled Power System Considering Dynamic Ramping and Flexible Load Transfer Strategy,” **IEEE Transactions on Power Systems**, vol. 39, no. 1, pp. 186-202, Jan. 2024.
@@ -30,20 +30,20 @@ I specialize in Advanced Optimization for Power System Flexibility, Cyber-Physic
 
 **Project 2.1. Mimic the Water Tree Growth in Medium Voltage Underground Cable to Assess Cable Condition and Predict Remaining Useful Life**
 
-<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="center" width="650"> 
+<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cable_1.png" align="center" width="700"> 
 
 > ***Representative References***
 - S. Bu, G. Lu, E. Yim and **C. Lei**, “A Health Index System and Method of Predicting Health Condition in Underground Cables,” HK30064886, 08/07/2023, Hong Kong. (**Winning the Golden Prize at  49th The International Exhibition of Inventions Geneva, Switzerland, 2024**)
 
 **Project 2.2. Electrochemical-thermal coupled Blade Lithium-Ion Battery for BYD Company**
-<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/battery.gif" align="center" width="700"> 
+<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/battery.gif" align="center" width="800"> 
 
 > ***Representative References***
 - **C. Lei**, Y. Christine Chen and S. Bu, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts,” **IEEE PES General Meeting 2025**, 2025 (Best Paper Award).
 - **C. Lei**, Y. Christine Chen and S. Bu, “Aging-Aware Vehicle Battery Dispatch for Aggregators: A Digital-Twin-enabled Rolling Optimization Framework,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
 
 **Project 2.3. Efficient Battery Dispatch Optimization for Vehicle-to-Grid (V2G) and Ship-to-Grid (S2G)**
-<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/BDO_ppt.gif" align="center" width="700">  
+<img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/BDO_ppt.gif" align="center" width="900">  
 
 > ***Representative References***
 - **C. Lei**, Y. Christine Chen and S. Bu, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts,” **IEEE PES General Meeting 2025**, 2025 (Best Paper Award).
@@ -55,7 +55,7 @@ I specialize in Advanced Optimization for Power System Flexibility, Cyber-Physic
 - Differentially private optimization: `Gaussian mechanism`, `Laplace mechanism`
   
 **Project 3.1. Cyber-Physical Security and Privacy Protection for Smart Distribution Grids**
-  <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cyber_ppt.gif" align="center" width="700">
+  <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cyber_ppt.gif" align="center" width="900">
   
 > ***Representative References***
 - **C. Lei**, S. Bu, Q. Wang and L. Liang, “Observability Defense-Constrained Distribution Network Reconfiguration for Cyber-Physical Security Enhancement,” **IEEE Transactions on Smart Grid**, vol. 15, no. 2, pp. 2379-2382, March 2024.
