@@ -34,7 +34,7 @@ I currently a research fellow working with Prof. <a href='https://ece.ubc.ca/y-c
 
 ## Research and Services
 Research Highlights with Representative Publications and Patents
-- [Research Highlights](research.md){:target="_blank"}
+- [[Research Highlights]](research.md){:target="_blank"}
 
 Research Group Memebers
 - <a href='https://raw.githubusercontent.com/honolulufishing/Homepage/main/3.png' target="_blank">[Group Memebers]</a>
