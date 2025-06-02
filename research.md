@@ -56,6 +56,7 @@ I specialize in Advanced Optimization for Power System Flexibility, Cyber-Physic
   
 **Project 3.1. Cyber-Physical Security and Privacy Protection for Smart Distribution Grids**
   <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/cyber_ppt.png" align="center" width="800">
+  
 > ***Representative References***
 - **C. Lei**, S. Bu, Q. Wang and L. Liang, “Observability Defense-Constrained Distribution Network Reconfiguration for Cyber-Physical Security Enhancement,” **IEEE Transactions on Smart Grid**, vol. 15, no. 2, pp. 2379-2382, March 2024.
 - **C. Lei**, S. Bu, Q. Chen, Q. Wang and D. Srinivasan, “Decentralized Optimal Power Flow for Multi-Agent Active Distribution Networks: A Differentially Private Consensus ADMM Algorithm,” **IEEE Transactions on Smart Grid**, vol. 15, no. 6, pp. 6175-6178, Nov. 2024.
