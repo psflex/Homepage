@@ -1,13 +1,13 @@
 
 
 ## Research Framework and Interests
-I specialize in Advanced Optimization for Power System Flexibility, Cyber-Physical System Security and Privacy Protection towards the affordable, reliable and sustainable goal for the clean energy future. My research vision is to adopt a holistic approach to enhancing the flexibility of high-renewable-energy systems, which involves achieving an optimal dispatch solution at the system level, ensuring feasibility at the device level, and strengthening cyber-physical and privacy security at the information level. Here are my research interests:
+I specialize in Advanced Optimization for Power System Flexibility, Cyber-Physical System Security and Privacy Protection towards the affordable, reliable and sustainable goal for the clean energy future. My research vision is to adopt a holistic approach to enhancing the operational flexibility of high-renewable power systems, which involves achieving an optimal dispatch solution at the system level, ensuring feasibility at the device level, and strengthening cyber-physical and privacy security at the information level. Here are my research interests for Power System Flexibility:
 
-- Power System Optimization and AI (System Level)
-- High-Fidelity COMSOL Simulation for battery and underground cables (Device Level)
-- Cyber-Physical System Security and Privacy Protection (Information Level)
+- System Level: Power System Optimization
+- Device Level: High-Fidelity COMSOL Simulation-enabled Grid-Edge Optimization
+- Information Level: Cyber-Physical System Security and Privacy Protection
 
-## <code style="color : blue">1. Power System Optimization and AI (System Level)</code>
+## <code style="color : blue">System Level: Power System Optimization</code>
 - Convex optimization: `convex hull relaxation`, `disjunctive programming`, `mixed-integer programming`
 - Decentralized computation: `Benders decomposition`, `ADMM`, `Lagrangian relaxation`
 - Data-driven optimization: `DBSCAN`, `SVM`, `k-means`
@@ -23,7 +23,7 @@ I specialize in Advanced Optimization for Power System Flexibility, Cyber-Physic
 - **C. Lei**, S. Bu, J. Zhong, Q. Chen and Q. Wang, “Distribution Network Reconfiguration: A Disjunctive Convex Hull Approach,” **IEEE Transactions on Power Systems**, vol. 38, no. 6, pp. 5926-5929, Nov. 2023.
 - **C. Lei**, N. Wei, Q. Wang and S. Bu, “Load Transfer Optimization with Graph Characterizations on Multiple Time-Scales for Multi-Voltage Distribution Networks Against Overload Cascades,” **IEEE Transactions on Power Delivery**, 2025 (Early Access).
 
-## <code style="color : blue">2. High-Fidelity COMSOL Simulation (Device Level)</code> 
+## <code style="color : blue">Device Level: High-Fidelity COMSOL Simulation-enabled Grid-Edge Optimization</code> 
 - Underground Cable: `Degraded Underground XLPE Cable`, `Life Cycle Prediction for Underground Cables`
 - Battery Pack: `Electrochemical-Thermal Coupled Modeling`
 - Electric Circuit Breaker: `Arc Simulation`
@@ -39,22 +39,21 @@ I specialize in Advanced Optimization for Power System Flexibility, Cyber-Physic
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/battery.gif" align="center" width="700"> 
 
 > ***Representative References***
-- **C. Lei**, Y. Christine Chen and S. Bu, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts,” **IEEE PES General Meeting 2025**, 2024.
+- **C. Lei**, Y. Christine Chen and S. Bu, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts,” **IEEE PES General Meeting 2025**, 2025 (Best Paper Award).
 - **C. Lei**, Y. Christine Chen and S. Bu, “Aging-Aware Vehicle Battery Dispatch for Aggregators: A Digital-Twin-enabled Rolling Optimization Framework,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
 
-**Project 2.3. Decentralized Battery Dispatch Optimization for EV Aggregator**
+**Project 2.3. Decentralized Battery Dispatch Optimization for EV Aggregators**
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/BDO_ppt.gif" align="center" width="700">  
 
 > ***Representative References***
-- **C. Lei**, Y. Christine Chen and S. Bu, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts,” **IEEE PES General Meeting 2025**, 2024.
-- **C. Lei**, Y. Christine Chen and S. Bu, “A Data-driven Battery Dispatch Optimization for Electric Vehicle Aggregators Considering Coupled Electrochemical-Thermal Degradation,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
+- **C. Lei**, Y. Christine Chen and S. Bu, “Battery Dispatch Optimization for Electric Vehicle Aggregators: A Decentralized Mixed-Integer Least-Squares Approach with Disjunctive Cuts,” **IEEE PES General Meeting 2025**, 2025 (Best Paper Award).
 
-**Project 2.4. Optimization of Shipboard Power Systems with Storage Systems**
+**Project 2.4. Optimization of Battery-powered Electric Ships**
 
 > ***Representative References***
-- **C. Lei**, Y. Christine Chen and S. Bu, “Health-aware OPF for Shipboard Power Systems in Battery-Powered Ships,” **IEEE Transactions  on Power Systems**, 2024 (working paper).
-  
-## <code style="color : blue">3. Cyber-Physical Security and Privacy Protection (Information Level)</code>
+- **C. Lei**, S. Li and Y. Christine Chen, “Optimal Ship-to-Grid Dispatch Considering Battery Thermal and Voltage Electrochemical-Thermal-Coupled Constraints,” **IEEE Transactions  on Power Systems**, 2025 (under review).
+ 
+## <code style="color : blue">Information Level: Cyber-Physical Security and Privacy Protection</code>
 - Cyber-Physical Security: `observability defense`, `false data injection`
 - Privacy Protection: `differential privacy`, `Homomorphic encryption`
 - Differentially private optimization: `Gaussian mechanism`, `Laplace mechanism`
@@ -62,4 +61,4 @@ I specialize in Advanced Optimization for Power System Flexibility, Cyber-Physic
 > ***Representative References***
 - **C. Lei**, S. Bu, Q. Wang and L. Liang, “Observability Defense-Constrained Distribution Network Reconfiguration for Cyber-Physical Security Enhancement,” **IEEE Transactions on Smart Grid**, vol. 15, no. 2, pp. 2379-2382, March 2024.
 - **C. Lei**, S. Bu, Q. Chen, Q. Wang and D. Srinivasan, “Decentralized Optimal Power Flow for Multi-Agent Active Distribution Networks: A Differentially Private Consensus ADMM Algorithm,” **IEEE Transactions on Smart Grid**, vol. 15, no. 6, pp. 6175-6178, Nov. 2024.
-- **C. Lei**, S. Bu, Q. Chen, Q. Wang and D. Srinivasan, “A Consensus ADMM-based Differentially Private Reconfiguration Approach for Multi-Agent Active Distribution Networks,” **IEEE Transactions on Energy Markets, Policy and Regulation**, 2024 (Under Review).
+- **C. Lei**, S. Bu, Q. Chen, Q. Wang and D. Srinivasan, “A Consensus ADMM-based Differentially Private Reconfiguration Approach for Multi-Agent Active Distribution Networks,” **IEEE Transactions on Energy Markets, Policy and Regulation**, 2025 (Under Review).
