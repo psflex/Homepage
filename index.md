@@ -37,7 +37,7 @@ Research Highlights with Representative Publications and Patents
 - [[Research Highlights]](research.md){:target="_blank"}
 
 Research Group Members
-- <a href='https://raw.githubusercontent.com/honolulufishing/Homepage/main/3.png' target="_blank">[Group Members]</a>
+- <a href='https://raw.githubusercontent.com/honolulufishing/Homepage/main/group.png' target="_blank">[Group Members]</a>
 
 Journal Reviewer (Selected)
 - IEEE Trans. on Power Systems(TPWRS)
